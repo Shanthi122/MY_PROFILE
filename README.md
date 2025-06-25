@@ -27,13 +27,13 @@ This is my simple personal profile web application built using **Flask** (Python
 ---
 
 ## 📁 Project Structure
-my_profile/
+```my_profile/
 ├── app.py # Main Flask app
 ├── requirements.txt # Python dependencies
 ├── Dockerfile # For container deployment
 ├── static/
 │ ├── 41642655-8953-44bc-9d6e-905d79b2a9af.jpg # Profile image
-│ └── e6981655-a76d-4cf4-aae0-1498055e1a79.png # Screenshot
+│ └── e6981655-a76d-4cf4-aae0-1498055e1a79.png # Screenshot```
 
 # Run with Docker
 
